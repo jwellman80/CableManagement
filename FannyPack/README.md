@@ -37,4 +37,4 @@ See the UserMods directory for more options.
 
 
 **Hexa**
-![Hexa](media/FannyPack_Hexa)
+![Hexa](media/FannyPack_Hexa.png)
