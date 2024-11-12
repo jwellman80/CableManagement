@@ -16,3 +16,25 @@ See the UserMods directory for more options.
 ### TODO
 
 - Add micron version
+
+
+### Images
+
+**Back**
+![Back](media/FannyPack_Assembled_Back.png)
+
+
+**Front**
+![Front](media/FannyPack_Assembled_Front.png)
+
+
+**Bird's Nest**
+![Bird's Nest](media/FannyPack_BirdsNest.png)
+
+
+**CEB**
+![CEB](media/FannyPack_CEB.png)
+
+
+**Hexa**
+![Hexa](media/FannyPack_Hexa)
