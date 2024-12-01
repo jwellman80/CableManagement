@@ -4,7 +4,7 @@
 
 With these plates the umbilical gets directed perfectly towards the dock. The supplied files assume the docks are spaced evenly across the x axis. Single umbilicals go straight out.
 
-This mod is intended to be used with my [umbilical restraints](https://github.com/DraftShift/StealthChanger/tree/main/UserMods/N3MI-DG/Umbilical_Restraints) and [can covers](https://github.com/DraftShift/StealthChanger/tree/main/UserMods/N3MI-DG/CAN_Cover)
+This mod is intended to be used with my [umbilical restraints](https://github.com/DraftShift/CableManagement/tree/main/UserMods/N3MI-DG/Umbilical_Restraints) and [can covers](https://github.com/DraftShift/CableManagement/tree/main/UserMods/N3MI-DG/CAN_Cover)
 
 There are 3 different styles.
 
