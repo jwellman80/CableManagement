@@ -217,7 +217,7 @@ For the Voron version, secure the back plate to the frame with 2 M5x10 BHCS scre
 The Micron version gets secured to the frame with 2 M3x10 SHCS and the outer plate to the face plate with 2 M2x10 self tapping screws.
 ![](images/installed_micron.jpg)
 If you are using the threaded back plates the spring steel/piano wire can be secured to the back plate with a M3 heat insert, M3x6 BHCS and M3 washer.
-![](images/installed_micron.jpg)
+![](images/thread_spring.jpg)
 ___
 ## Umbilical Restraints
 There are 2 different ports for the umbilical plates.
